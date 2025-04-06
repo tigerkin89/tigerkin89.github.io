@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test a
+title: a_test
 parent: test
 tags: ['test']
 ---
