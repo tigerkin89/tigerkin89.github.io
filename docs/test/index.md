@@ -1,7 +1,7 @@
 ---
 layout: default
-title: test
+parent: test
 has_children: true
-nav_order: 3
+nav_order: 1
 ---
 # test # 연습
